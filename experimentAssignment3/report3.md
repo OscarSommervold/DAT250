@@ -37,7 +37,7 @@ https://docs.mongodb.com/manual/core/bulk-write-operations/
 
 ## Experiment 2: Aggregation
 
-# Map-Reduce tutorial
+### Map-Reduce tutorial
 https://docs.mongodb.com/v4.4/tutorial/map-reduce-examples/
 Followed the tutorial without issues, here is a screenshot of the map-reduce operation I created
 
