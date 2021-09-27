@@ -17,7 +17,7 @@ get:
 ![get](images/get.PNG)
 
 ## Experiment 2: REST API for TODO-items
-Only issues I had was making sure my pom.xml and persistence.xml files were configured properly. I solved this by looking at my code for experience assignment 2.
+Only issues I had was making sure my pom.xml and persistence.xml files were configured properly. I solved this by looking at my code for assignment 2.
 
 Create:
 ![create](images/restCreate.PNG)
