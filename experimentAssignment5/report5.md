@@ -12,7 +12,7 @@ Completed the tutorial without issues
 
 ## Experiment 2: Spring Boot
 Using browser  
-![spring_boot](images/spring_boot.PNG)
+![spring_boot](images/spring_boot.PNG)  
 Using terminal  
 ![boot_health](images/boot_health.PNG)
 
