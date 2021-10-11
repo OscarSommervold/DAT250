@@ -11,3 +11,5 @@ Followed the tutorial without issues
 ![greeting](images/exp6_greeting.PNG)  
 
 ## Experiment 2: Single-page Web Applications
+Followed the tutorial without issues.  
+![tic_tac_toe](images/tic_tac_toe.PNG)
